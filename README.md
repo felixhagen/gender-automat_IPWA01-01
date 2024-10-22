@@ -10,7 +10,7 @@ Umwandlung von Begriffen: Die Anwendung durchsucht den Text nach bestimmten Begr
 
 Anzeige der umgewandelten Begriffe: Der angepasste Text wird nach der Umwandlung unterhalb des Textfeldes angezeigt.
 Ein zentrales Menü mit drei erfundenen Menüpunkten zeigt sich direkt unter der Überschrift.
-Zudem gibt es verfügbare Begriffe zur Anpassung. Eine Liste der Begriffe werden am unteren Bildschirmrand gezeigt. Diese können angepasst werden; hier wird stetig an einer Weiterentwicklung gearbeitet.
+Zudem gibt es verfügbare Begriffe zur Anpassung. Eine Liste der Begriffe wird am unteren Bildschirmrand gezeigt. Diese können angepasst werden; hier wird stetig an einer Weiterentwicklung gearbeitet.
 
 ## Technologie
 
