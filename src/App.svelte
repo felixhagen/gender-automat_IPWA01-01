@@ -66,7 +66,7 @@
 		padding: 20px;
 		margin: 0 auto;
 		max-width: 800px;
-		color: #fff;
+		color: white;
 		text-shadow: 1px 1px 2px #000;
 	}
 
@@ -74,19 +74,15 @@
 		text-align: center;
 	}
 
-	textarea {
+	.textarea {
 		width: 100%;
 		min-height: 200px;
 		margin-bottom: 20px;
+		color: white;
 	}
 
 	label.label {
 		color: #fff;
-	}
-
-	.textarea {
-		background-color: rgba(255, 255, 255, 0.8);
-		color: #000;
 	}
 
 	.button.is-primary {
@@ -125,7 +121,7 @@
 				<a href="#" style="margin: 0 30px; color: beige; text-decoration: underline; font-weight: bold; text-shadow: 1px 1px 2px #000;">Menüpunkt 3</a>
 			</div>
 			<figure class="image is-128x128 is-inline-block">
-				<img src="logo.png" alt="Logo">
+				<img src="logo_new.png" alt="Logo">
 			</figure>
 		</div>
 	</section>
@@ -134,7 +130,7 @@
 	<section class="section">
 		<div class="content-container has-text-centered">
 			<div class="field">
-				<label class="label">Bitte geben Sie Ihren Text ein:</label>
+				<label class="label" style="color: white; text-shadow: 1px 1px 2px #000;">Bitte geben Sie Ihren Text ein:</label>
 				<div class="control">
           <textarea
 				  class="textarea"
